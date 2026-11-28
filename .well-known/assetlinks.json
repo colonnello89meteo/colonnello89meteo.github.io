@@ -6,7 +6,8 @@
       "package_name": "io.github.colonnello89meteo.twa",
       "sha256_cert_fingerprints": [
         "9A:94:78:47:84:1C:F5:3C:B1:A2:3E:C6:BE:F8:1A:09:83:EC:4B:15:E6:F5:A9:2E:CF:23:23:B6:D5:7C:14:46",
-        "2E:0F:98:E3:35:DA:2E:B3:79:96:B3:55:4F:95:09:98:47:61:18:D1:4A:69:F7:2C:DC:8A:08:0A:92:6E:2C:BA"
+        "2E:0F:98:E3:35:DA:2E:B3:79:96:B3:55:4F:95:09:98:47:61:18:D1:4A:69:F7:2C:DC:8A:08:0A:92:6E:2C:BA",
+        "02:C7:B7:83:2B:02:AE:47:5B:D5:16:64:58:48:A0:D9:DC:A5:A4:20:49:3D:9B:1B:7F:0B:BD:00:9E:EA:DC:A6"
       ]
     }
   }
